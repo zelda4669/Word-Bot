@@ -1,1 +1,1 @@
-# Word-Bot
+# Word Games
